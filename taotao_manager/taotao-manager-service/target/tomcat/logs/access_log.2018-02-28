@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:08:12:23 +0800] "GET /Resources/1/images/menu.gif HTTP/1.1" 404 1005 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:08:12:24 +0800] "GET /Resources/1/images/menu_rightarrow.png HTTP/1.1" 404 1027 http-bio-8080-exec-7 0
