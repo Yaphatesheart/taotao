@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="generatorSqlmapCustom" />
+        <module name="pagehelper" />
         <module name="taotao-manager-interface" />
         <module name="taotao-manager-pojo" />
         <module name="taotao-manager-service" />
@@ -21,6 +22,7 @@
     <bytecodeTargetLevel>
       <module name="aouasga" target="1.8" />
       <module name="generatorSqlmapCustom" target="1.5" />
+      <module name="pagehelper" target="1.8" />
       <module name="taotao-manager" target="1.8" />
       <module name="taotao-manager-interface" target="1.8" />
       <module name="taotao-manager-pojo" target="1.8" />
